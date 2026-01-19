@@ -1,0 +1,6 @@
+LangChain is a framework for building LLM-powered applications.
+LangGraph is used to build stateful multi-agent workflows.
+ChromaDB is a vector database for semantic search.
+Groq provides ultra-fast LLM inference.
+Agentic AI systems decide when to use tools.
+Weather APIs provide real-time weather data.
